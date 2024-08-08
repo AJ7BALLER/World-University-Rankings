@@ -1,5 +1,8 @@
 # World University Rankings Analysis
 
+## Preview of the Report
+![Screenshot 2024-08-08 101214](https://github.com/user-attachments/assets/fd25d9a5-9565-420a-8587-504c85783882)
+
 ## Objective:
 The presentation, titled "World University Rankings," provides a comprehensive analysis of the top universities globally. The focus is on evaluating and visualizing key performance metrics, geographical distribution, and demographic trends to offer valuable insights into the higher education landscape.
 
@@ -46,4 +49,6 @@ The dashboard uncovers diversity and internationalization trends within universi
 
 ### Informed Decisions:
  Stakeholders can leverage the insights to support strategic planning and continuous improvement in higher education.
+
+
 
